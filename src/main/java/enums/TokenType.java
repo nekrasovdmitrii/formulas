@@ -1,0 +1,7 @@
+package enums;
+
+public enum TokenType {
+    OPEN_BRACKET, CLOSE_BRACKET,
+    OPERATION_PLUS, OPERATION_MINUS, OPERATION_MUL, OPERATION_DIV,
+    NUMBER, ARG, END
+}
